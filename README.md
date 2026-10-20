@@ -32,7 +32,8 @@ This is a 2-member team project, built together.
 
 | Name | Enrollment No. | GitHub |
 |---|---|---|
-| Sangle Sarvambh Keshav | BT23CSE094 | [[profile link](https://github.com/SarvambhSangle)] |
 | Aman Kumar Singh | BT23CSE074 | [amanksingh0704-afk](https://github.com/amanksingh0704-afk) |
+| Sangle Sarvambh Keshav | BT23CSE094 | [[Sarvambh Sangle](https://github.com/SarvambhSangle)] |
+
 
 Visvesvaraya National Institute of Technology, Nagpur, B.Tech Computer Science & Engineering
